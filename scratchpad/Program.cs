@@ -24,11 +24,7 @@ for (int i = 0; i < Buffer.Length; i++)
 
 
 
-
-
-
-
-
+//below are the attributes that feed the demo
 
 
 //Feature 4: InlineArray attribute - allows you to specify the number of elements in an array.
